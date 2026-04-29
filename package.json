@@ -26,6 +26,7 @@
     "release": "pnpm changeset version && pnpm changeset publish"
   },
   "devDependencies": {
-    "@changesets/cli": "^2.29.7"
+    "@changesets/cli": "^2.29.7",
+    "@cyclonedx/cyclonedx-npm": "^4.2.1"
   }
 }
